@@ -733,7 +733,7 @@ section.lazy-placeholder:after {
 .cid-rOVzLM3AX8 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-rOVzLM3AX8 .mbr-section-subtitle,
 .cid-rOVzLM3AX8 .mbr-text {
@@ -930,10 +930,84 @@ section.lazy-placeholder:after {
 .cid-rOVfOgsiO8 .card .panel-body {
   color: #767676;
 }
-.cid-rOV9EuMxCf {
+.cid-rOVFiQxUJz {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #ffffff;
+}
+.cid-rOVFiQxUJz .socicon-bg-facebook {
+  background: #3e5b98;
+  color: #ffffff;
+}
+.cid-rOVFiQxUJz .socicon-bg-twitter {
+  background: #4da7de;
+  color: #ffffff;
+}
+.cid-rOVFiQxUJz .socicon-bg-googleplus {
+  background: #dd4b39;
+  color: #ffffff;
+}
+.cid-rOVFiQxUJz .socicon-bg-vkontakte {
+  background: #5a7fa6;
+  color: #ffffff;
+}
+.cid-rOVFiQxUJz .socicon-bg-odnoklassniki {
+  background: #f48420;
+  color: #ffffff;
+}
+.cid-rOVFiQxUJz .socicon-bg-pinterest {
+  background: #c92619;
+  color: #ffffff;
+}
+.cid-rOVFiQxUJz .socicon-bg-mail {
+  background: #134785;
+  color: #ffffff;
+}
+.cid-rOVFiQxUJz .btn-social {
+  font-size: 20px;
+  border-radius: 50%;
+  padding: 0;
+  width: 44px;
+  height: 44px;
+  line-height: 44px;
+  text-align: center;
+  position: relative;
+  cursor: pointer;
+  border: none !important;
+}
+.cid-rOVFiQxUJz .btn-social i {
+  top: 0;
+  line-height: 44px;
+  width: 44px;
+}
+.cid-rOVFiQxUJz .btn-social + .btn {
+  margin-left: .1rem;
+}
+.cid-rOVFiQxUJz [class^="socicon-"]:before,
+.cid-rOVFiQxUJz [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+@media (max-width: 767px) {
+  .cid-rOVFiQxUJz .btn {
+    font-size: 20px !important;
+  }
+}
+.cid-rOVFxPQ4SQ {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(0deg, #7fdbfd, #6670a9);
+}
+.cid-rOVFxPQ4SQ .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
+}
+.cid-rOVFxPQ4SQ .social-list a:focus {
+  text-decoration: none;
+}
+.cid-rOV9EuMxCf {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #c1c1c1;
 }
 .cid-rOV9EuMxCf .mbr-section-subtitle {
   color: #767676;
@@ -959,7 +1033,7 @@ section.lazy-placeholder:after {
   letter-spacing: -2px;
   word-spacing: 0;
   line-height: 1.3;
-  color: #232323;
+  color: #ff3366;
 }
 .cid-rOV9EuMxCf .period {
   display: block;
@@ -981,7 +1055,7 @@ section.lazy-placeholder:after {
   text-transform: none;
   letter-spacing: 0;
   word-spacing: 0;
-  color: #232323;
+  color: #ff3366;
 }
 .cid-rOV9EuMxCf .countdown-cont {
   max-width: 700px;
